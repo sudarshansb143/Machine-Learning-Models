@@ -1,7 +1,6 @@
 # Machine  Learning Models 
     
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+ <img alt="Version" src="https://img.shields.io/badge/<scikit-learn>-<0.0.20>-<bright-green>?style=for-the-badge&logo=appveyor" />
 Machine Learning Models pretrained
 
 # DEPENDENCIES
